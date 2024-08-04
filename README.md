@@ -2,7 +2,7 @@
 
 ## Demo :
 
-![screenshot](https://github.com/user-attachments/assets/7fafadb1-0fc0-4592-86aa-c142ff997600)
+![screenshot](https://github.com/user-attachments/assets/0c0691f8-e1df-4c54-b407-51db3bee4d7e)
 
 ## Project Overview
 This project involves analyzing a comprehensive dataset of real estate customer care interactions. The dataset, Real Estate - Customer Care.csv, contains detailed records of 231,685 customer care cases. The goal of this project is to gain insights into customer care trends, service level agreements (SLA), and overall service quality in the real estate sector.
